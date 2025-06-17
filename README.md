@@ -14,6 +14,7 @@ Um sistema completo para criação e votação em enquetes com atualização de 
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js (API REST)
+- **Banco de Dados**: MySQL
 - **Bibliotecas**: React Router, Axios, React Toastify
 - **Padrões**: Componentes funcionais, Hooks
 
