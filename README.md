@@ -23,3 +23,6 @@ Um sistema completo para criação e votação em enquetes com atualização de 
 - Node.js (v16 ou superior)
 - npm ou yarn
 - Servidor backend configurado (consulte o repositório do backend)
+
+### Demonstração
+https://drive.google.com/file/d/1pJnoqOLNozK1wCtPyHu9-m-LvIh4LF0M/view?usp=sharing
