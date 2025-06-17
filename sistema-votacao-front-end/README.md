@@ -1,12 +1,25 @@
-# React + Vite
+# 📊 Projeto de Sistema de Votação (Enquetes)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um sistema completo para criação e votação em enquetes com atualização de resultados em tempo real.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades Principais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Criação de enquetes** com múltiplas opções
+- **Votação intuitiva** com interface amigável
+- **Resultados em tempo real** (atualização automática)
+- **Visualização de porcentagens** e contagem absoluta de votos
+- **Responsivo** para diferentes dispositivos
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js (API REST)
+- **Bibliotecas**: React Router, Axios, React Toastify
+- **Padrões**: Componentes funcionais, Hooks
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+- Node.js (v16 ou superior)
+- npm ou yarn
+- Servidor backend configurado (consulte o repositório do backend)
