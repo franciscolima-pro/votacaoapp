@@ -1,6 +1,6 @@
 # 📊 Projeto de Sistema de Votação (Enquetes)
 
-Um sistema completo para criação e votação em enquetes com atualização de resultados em tempo real.
+Um sistema (CRUD) completo para criação e votação em enquetes com atualização de resultados em tempo real.
 
 ## ✨ Funcionalidades Principais
 
